@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Sweph
+Bundle-SymbolicName: kz.zvezdochet.sweph;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: kz.zvezdochet.sweph.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ClassPath: kz.zvezdochet.sweph.jar,
+ .,
+ lib/swisseph.jar
+Export-Package: kz.zvezdochet.sweph,
+ kz.zvezdochet.sweph.preferences,
+ swisseph
