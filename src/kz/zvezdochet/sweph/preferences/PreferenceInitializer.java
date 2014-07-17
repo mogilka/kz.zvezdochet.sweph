@@ -7,7 +7,7 @@ import org.eclipse.jface.preference.IPreferenceStore;
 
 /**
  * Класс, определяющий значения настроек по умолчанию
- * @author Nataly
+ * @author Nataly Didenko
  */
 public class PreferenceInitializer extends AbstractPreferenceInitializer {
 

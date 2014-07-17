@@ -10,7 +10,7 @@ import org.eclipse.ui.IWorkbenchPreferencePage;
 /**
  * Визуальное представление для доступа к редактируемым параметрам эфемерид
  * (Помощь - Настройки - Эфемериды)
- * @author Nataly
+ * @author Nataly Didenko
  */
 
 public class SwephPreferencePage extends FieldEditorPreferencePage
