@@ -12,5 +12,4 @@ Bundle-ClassPath: kz.zvezdochet.sweph.jar,
  .,
  lib/swisseph.jar
 Export-Package: kz.zvezdochet.sweph,
- kz.zvezdochet.sweph.preferences,
  swisseph
